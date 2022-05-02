@@ -1,2 +1,2 @@
 # Lab_final
-rishabh
+User manual instruction
